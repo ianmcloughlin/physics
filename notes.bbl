@@ -1,0 +1,51 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{biggs}{book}{}
+      \name{author}{1}{}{%
+        {{hash=228731a645f9b850179116825361b595}{%
+           family={Biggs},
+           familyi={B\bibinitperiod},
+           given={Norman\bibnamedelima L.},
+           giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Science Publ.}%
+      }
+      \strng{namehash}{228731a645f9b850179116825361b595}
+      \strng{fullhash}{228731a645f9b850179116825361b595}
+      \strng{bibnamehash}{228731a645f9b850179116825361b595}
+      \strng{authorbibnamehash}{228731a645f9b850179116825361b595}
+      \strng{authornamehash}{228731a645f9b850179116825361b595}
+      \strng{authorfullhash}{228731a645f9b850179116825361b595}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{revised Edition}
+      \field{title}{{Discrete Mathematics}}
+      \field{year}{1989}
+      \keyw{ganter handbib slub diskrete-strukturen regal05}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
